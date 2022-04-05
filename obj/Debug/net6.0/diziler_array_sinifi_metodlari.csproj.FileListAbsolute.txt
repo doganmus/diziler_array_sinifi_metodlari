@@ -1,0 +1,15 @@
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\bin\Debug\net6.0\diziler_array_sinifi_metodlari.exe
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\bin\Debug\net6.0\diziler_array_sinifi_metodlari.deps.json
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\bin\Debug\net6.0\diziler_array_sinifi_metodlari.runtimeconfig.json
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\bin\Debug\net6.0\diziler_array_sinifi_metodlari.dll
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\bin\Debug\net6.0\diziler_array_sinifi_metodlari.pdb
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\obj\Debug\net6.0\diziler_array_sinifi_metodlari.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\obj\Debug\net6.0\diziler_array_sinifi_metodlari.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\obj\Debug\net6.0\diziler_array_sinifi_metodlari.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\obj\Debug\net6.0\diziler_array_sinifi_metodlari.AssemblyInfo.cs
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\obj\Debug\net6.0\diziler_array_sinifi_metodlari.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\obj\Debug\net6.0\diziler_array_sinifi_metodlari.dll
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\obj\Debug\net6.0\refint\diziler_array_sinifi_metodlari.dll
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\obj\Debug\net6.0\diziler_array_sinifi_metodlari.pdb
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\obj\Debug\net6.0\diziler_array_sinifi_metodlari.genruntimeconfig.cache
+D:\education\PatikaPratikler\diziler_array_sinifi_metodlari\obj\Debug\net6.0\ref\diziler_array_sinifi_metodlari.dll
